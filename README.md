@@ -1,0 +1,1 @@
+Simple App for cooking, uses Gemini Pro Vision model for generating responses. Users choose up to five pictures of ingredients, those pictures used as a prompt with "Give me a detailed recipe for these ingredients:" text
