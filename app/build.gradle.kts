@@ -69,6 +69,7 @@ dependencies {
     implementation("com.google.ai.client.generativeai:generativeai:0.1.2")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.0-alpha01")
     implementation ("io.coil-kt:coil-compose:2.5.0")
+    implementation ("id.zelory:compressor:3.0.1")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
